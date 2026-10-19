@@ -6,7 +6,7 @@ An interactive Power BI project analysing transport-related CO₂ emissions acro
 
 ## Objectives
 
-* [Compare transport CO₂ emissions across selected East African countries
+* Compare transport CO₂ emissions across selected East African countries
 * Visualise annual emissions trends.
 * Calculate year-on-year percentage changes.
 * Analyse each country's share of combined reported emissions.
